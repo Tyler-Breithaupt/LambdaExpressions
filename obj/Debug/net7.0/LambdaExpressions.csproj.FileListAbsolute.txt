@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/bin/Debug/net7.0/LambdaExpressions
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/bin/Debug/net7.0/LambdaExpressions.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/bin/Debug/net7.0/LambdaExpressions.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/bin/Debug/net7.0/LambdaExpressions.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/bin/Debug/net7.0/LambdaExpressions.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/refint/LambdaExpressions.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/LambdaExpressions.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LambdaExpressions/obj/Debug/net7.0/ref/LambdaExpressions.dll
